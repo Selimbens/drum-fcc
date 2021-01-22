@@ -1,4 +1,6 @@
 import logo from './logo.svg';
+import React from "react";
+import ReactDom from "react-dom";
 import './App.css';
 import lib from "./lib";
 
